@@ -1,12 +1,7 @@
 <!DOCTYPE HTML>
-<!--
-	Landed by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
 	<head>
-		<title>Landed by HTML5 UP</title>
+		<title>Locusweb by @OwllaX</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -17,7 +12,7 @@
 
 			<!-- Header -->
 				<header id="header">
-					<h1 id="logo"><a href="index.php">Landed</a></h1>
+					<h1 id="logo"><a href="index.php">Locusweb</a></h1>
 					<nav id="nav">
 						<ul>
 							<li><a href="index.php">Home</a></li>
@@ -48,11 +43,10 @@
 				<section id="banner">
 					<div class="content">
 						<header>
-							<h2>The future has landed</h2>
-							<p>And there are no hoverboards or flying cars.<br />
-							Just apps. Lots of mother flipping apps.</p>
+							<h2>Hi! I'm a Developer</h2>
+							<p>And I can show you what I'm able to do.</p>
 						</header>
-						<span class="image"><img src="images/pic01.jpg" alt="" /></span>
+						<span class="image"><img src="images/MiLogo.jpg" alt="" /></span>
 					</div>
 					<a href="#one" class="goto-next scrolly">Next</a>
 				</section>
@@ -65,23 +59,23 @@
 							<div class="row">
 								<div class="col-4 col-12-medium">
 									<header>
-										<h2>Odio faucibus ipsum integer consequat</h2>
-										<p>Nascetur eu nibh vestibulum amet gravida nascetur praesent</p>
+										<h2>My name is Axalon "OwllaX" Vargas</h2>
+										<p>but my full name is <b>Axel Alonso Vargas Segura</b></p>
 									</header>
 								</div>
 								<div class="col-4 col-12-medium">
-									<p>Feugiat accumsan lorem eu ac lorem amet sed accumsan donec.
-									Blandit orci porttitor semper. Arcu phasellus tortor enim mi
-									nisi praesent dolor adipiscing. Integer mi sed nascetur cep aliquet
-									augue varius tempus lobortis porttitor accumsan consequat
-									adipiscing lorem dolor.</p>
+									<p>I'm a Information Technologies Engineer and I was student of National Technical University in Costa Rica. 
+										I've worked with languages like <b>Java, PHP, C#/VB.net (WinForms), Python and 
+										a little bit of C++.</b> About Web I've worked with <b>HTML5, CSS, JavaScript, AJAX, 
+										JQuery, Bootstrap, Foundation, APIs and ASP.net.</b> I know about server tools on 
+										Linux like <b>VSFTPD, Apache2, MariaDB, PHP Server and a bit of Firewall.</b></p>
 								</div>
 								<div class="col-4 col-12-medium">
-									<p>Morbi enim nascetur et placerat lorem sed iaculis neque ante
-									adipiscing adipiscing metus massa. Blandit orci porttitor semper.
-									Arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer
-									mi sed nascetur cep aliquet augue varius tempus. Feugiat lorem
-									ipsum dolor nullam.</p>
+									<p>I have knowlegments with DataBases like <b>MySQL, SQL Server,
+										PostgreSQL, analyzing data with PowerBI.</b> Moreover, I have 4 cerfitications of CISCO 
+										<b>(CCNA R&S: Introduction to Networks, CCNA R&S: Routing and Switching Essentials,
+										CCNA R&S: Scaling Networks, CCNA R&S: Connecting Networks).</b>
+										All what I mentioned was working in the University and University/Companies projects.</p>
 								</div>
 							</div>
 						</div>
