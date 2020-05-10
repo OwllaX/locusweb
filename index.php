@@ -64,15 +64,15 @@
 									</header>
 								</div>
 								<div class="col-4 col-12-medium">
-									<p>I'm a Information Technologies Engineer and I was student of National Technical University in Costa Rica. 
-										I've worked with languages like <b>Java, PHP, C#/VB.net (WinForms), Python and 
-										a little bit of C++.</b> About Web I've worked with <b>HTML5, CSS, JavaScript, AJAX, 
-										JQuery, Bootstrap, Foundation, APIs and ASP.net.</b> I know about server tools on 
+									<p>I'm a Information Technologies Engineer and I was student of National Technical University in Costa Rica.
+										I've worked with languages like <b>Java, PHP, C#/VB.net (WinForms), Python and
+										a little bit of C++.</b> About Web I've worked with <b>HTML5, CSS, JavaScript, AJAX,
+										JQuery, Bootstrap, Foundation, APIs and ASP.net.</b> I know about server tools on
 										Linux like <b>VSFTPD, Apache2, MariaDB, PHP Server and a bit of Firewall.</b></p>
 								</div>
 								<div class="col-4 col-12-medium">
 									<p>I have knowlegments with DataBases like <b>MySQL, SQL Server,
-										PostgreSQL, analyzing data with PowerBI.</b> Moreover, I have 4 cerfitications of CISCO 
+										PostgreSQL, analyzing data with PowerBI.</b> Moreover, I have 4 cerfitications of CISCO
 										<b>(CCNA R&S: Introduction to Networks, CCNA R&S: Routing and Switching Essentials,
 										CCNA R&S: Scaling Networks, CCNA R&S: Connecting Networks).</b>
 										All what I mentioned was working in the University and University/Companies projects.</p>
@@ -80,11 +80,11 @@
 							</div>
 						</div>
 					</div>
-					<a href="#two" class="goto-next scrolly">Next</a>
+					<a href="#four" class="goto-next scrolly">Next</a>
 				</section>
 
 			<!-- Two -->
-				<section id="two" class="spotlight style2 right">
+				<!--<section id="two" class="spotlight style2 right">
 					<span class="image fit main"><img src="images/pic03.jpg" alt="" /></span>
 					<div class="content">
 						<header>
@@ -97,10 +97,10 @@
 						</ul>
 					</div>
 					<a href="#three" class="goto-next scrolly">Next</a>
-				</section>
+				</section>-->
 
 			<!-- Three -->
-				<section id="three" class="spotlight style3 left">
+				<!--<section id="three" class="spotlight style3 left">
 					<span class="image fit main bottom"><img src="images/pic04.jpg" alt="" /></span>
 					<div class="content">
 						<header>
@@ -113,54 +113,56 @@
 						</ul>
 					</div>
 					<a href="#four" class="goto-next scrolly">Next</a>
-				</section>
+				</section>-->
 
 			<!-- Four -->
 				<section id="four" class="wrapper style1 special fade-up">
 					<div class="container">
 						<header class="major">
-							<h2>Accumsan sed tempus adipiscing blandit</h2>
-							<p>Iaculis ac volutpat vis non enim gravida nisi faucibus posuere arcu consequat</p>
+							<h2>I'm quickly going to tell you about my last works</h2>
 						</header>
 						<div class="box alt">
 							<div class="row gtr-uniform">
 								<section class="col-4 col-6-medium col-12-xsmall">
-									<span class="icon solid alt major fa-chart-area"></span>
-									<h3>Ipsum sed commodo</h3>
-									<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
+									<span class="icon solid alt major fa-network-wired"></span>
+									<h3>Cisco Networks</h3>
+									<p>In the University with real equipments and tools for creating
+									and resolving problems in WAN/LAN with Switches/Routers for 3 years</p>
 								</section>
 								<section class="col-4 col-6-medium col-12-xsmall">
-									<span class="icon solid alt major fa-comment"></span>
-									<h3>Eleifend lorem ornare</h3>
-									<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
+									<span class="icon solid alt major fa-business-time"></span>
+									<h3>Marketing</h3>
+									<p>for 4 months in a business called Leckam Crosstraining.
+										I had to manage/create ideas for growing up the business and facebook page.</p>
 								</section>
 								<section class="col-4 col-6-medium col-12-xsmall">
-									<span class="icon solid alt major fa-flask"></span>
-									<h3>Cubilia cep lobortis</h3>
-									<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
+									<span class="icon solid alt major fa-globe"></span>
+									<h3>Developer in functional web site</h3>
+									<p>for 1 year in the University. This website is for the students
+										and administrative personnel to automatize processes for the students.</p>
 								</section>
 								<section class="col-4 col-6-medium col-12-xsmall">
-									<span class="icon solid alt major fa-paper-plane"></span>
-									<h3>Non semper interdum</h3>
-									<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
+									<span class="icon solid alt major fa-laptop-code"></span>
+									<h3>Developer using Winforms</h3>
+									<p>for 4 months in PANI Costa Rica, I created a program to manage
+									and to automatize the search with digital copies of all documents. On VB.net</p>
 								</section>
 								<section class="col-4 col-6-medium col-12-xsmall">
-									<span class="icon solid alt major fa-file"></span>
-									<h3>Odio laoreet accumsan</h3>
-									<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
+									<span class="icon solid alt major fa-chart-line"></span>
+									<h3>Developer using Winforms v2</h3>
+									<p>A project in the University for 2 months, using C# I created a program
+										of transportation model. The project is completely functional like all.
+									</p>
 								</section>
 								<section class="col-4 col-6-medium col-12-xsmall">
-									<span class="icon solid alt major fa-lock"></span>
-									<h3>Massa arcu accumsan</h3>
-									<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
+									<span class="icon solid alt major fa-database"></span>
+									<h3>Database manager and data analyst</h3>
+									<p>For 8 months of 2 parts in the University, I had to manage databases
+										with all that it meant and analyzing data for a project with PowerBI
+										and Visual Studio tools.</p>
 								</section>
 							</div>
 						</div>
-						<footer class="major">
-							<ul class="actions special">
-								<li><a href="#" class="button">Magna sed feugiat</a></li>
-							</ul>
-						</footer>
 					</div>
 				</section>
 
@@ -168,13 +170,12 @@
 				<section id="five" class="wrapper style2 special fade">
 					<div class="container">
 						<header>
-							<h2>Magna faucibus lorem diam</h2>
-							<p>Ante metus praesent faucibus ante integer id accumsan eleifend</p>
+							<h2>If you want my services</h2>
+							<p>Press the button below or click on the links of my social networks.</p>
 						</header>
 						<form method="post" action="#" class="cta">
 							<div class="row gtr-uniform gtr-50">
-								<div class="col-8 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Your Email Address" /></div>
-								<div class="col-4 col-12-xsmall"><input type="submit" value="Get Started" class="fit primary" /></div>
+								<div class="col-4 off-4 col-12-xsmall"><input type="button" value="Let's Go" class="fit primary" /></div>
 							</div>
 						</form>
 					</div>
@@ -183,15 +184,15 @@
 			<!-- Footer -->
 				<footer id="footer">
 					<ul class="icons">
-						<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
-						<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
-						<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
-						<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
-						<li><a href="#" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
+						<li><a href="https://twitter.com/byOwllaX" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="https://www.facebook.com/AxAlon72" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="https://www.linkedin.com/in/axalon/" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+						<li><a href="https://www.instagram.com/byowllax/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="https://github.com/OwllaX" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+						<li><a href="mailto://axel72avs@outlook.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
 					</ul>
 					<ul class="copyright">
-						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						<li>&copy; locusweb by OwllaX</li><li>Template: <a href="http://html5up.net">HTML5 UP</a></li>
 					</ul>
 				</footer>
 
