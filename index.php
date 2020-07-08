@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Landed by HTML5 UP</title>
+		<title>Welcome to LocusWeb</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -17,29 +17,22 @@
 
 			<!-- Header -->
 				<header id="header">
-					<h1 id="logo"><a href="index.php">Landed</a></h1>
+					<h1 id="logo"><a href="index.php">LocusWeb</a></h1>
 					<nav id="nav">
 						<ul>
-							<li><a href="index.php">Home</a></li>
+							<li><a href="index.php">Who Are Us?</a></li>
 							<li>
-								<a href="#">Layouts</a>
+								<a href="#">Our Services</a>
 								<ul>
-									<li><a href="left-sidebar.php">Left Sidebar</a></li>
-									<li><a href="right-sidebar.php">Right Sidebar</a></li>
-									<li><a href="no-sidebar.php">No Sidebar</a></li>
-									<li>
-										<a href="#">Submenu</a>
-										<ul>
-											<li><a href="#">Option 1</a></li>
-											<li><a href="#">Option 2</a></li>
-											<li><a href="#">Option 3</a></li>
-											<li><a href="#">Option 4</a></li>
-										</ul>
-									</li>
+									<li><a href="#">Networking</a></li>
+									<li><a href="#">Software</a></li>
+									<li><a href="#">Websites</a></li>
+									<li><a href="#">Projects</a></li>
 								</ul>
 							</li>
-							<li><a href="elements.php">Elements</a></li>
-							<li><a href="#" class="button primary">Sign Up</a></li>
+							<li><a href="index.php">Succesfully Cases</a></li>
+							<li><a href="elements.php">Contact Us</a></li>
+							<li><a href="#" class="button primary">Join With Us!</a></li>
 						</ul>
 					</nav>
 				</header>
@@ -48,9 +41,9 @@
 				<section id="banner">
 					<div class="content">
 						<header>
-							<h2>The future has landed</h2>
-							<p>And there are no hoverboards or flying cars.<br />
-							Just apps. Lots of mother flipping apps.</p>
+							<h2>We are LocusWeb</h2>
+							<p>Hi! I'm Axel 'OwllaX' Vargas!</p>
+							<p>I'm the creator and co-founder and I'm going to talk about our IT business.</p>
 						</header>
 						<span class="image"><img src="images/pic01.jpg" alt="" /></span>
 					</div>
@@ -64,24 +57,18 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-4 col-12-medium">
-									<header>
-										<h2>Odio faucibus ipsum integer consequat</h2>
-										<p>Nascetur eu nibh vestibulum amet gravida nascetur praesent</p>
+										<h2>We are a business to help businesses and the community (Costa Rica) ...</h2>
+										<!--<p>no matters, if you are a small or big business, we are to be a support about IT into your business.
+										We are a support for new IT graduades of Costa Rica to find job, so, we can show the performance of the 'Tico' talent.</p>-->
 									</header>
 								</div>
 								<div class="col-4 col-12-medium">
-									<p>Feugiat accumsan lorem eu ac lorem amet sed accumsan donec.
-									Blandit orci porttitor semper. Arcu phasellus tortor enim mi
-									nisi praesent dolor adipiscing. Integer mi sed nascetur cep aliquet
-									augue varius tempus lobortis porttitor accumsan consequat
-									adipiscing lorem dolor.</p>
+									<p>no matters, if you are a small or big business, we are a support about IT into your business.
+									All the businesses have the same compromise of us, our same performance and our same excellent employees.</p>
 								</div>
 								<div class="col-4 col-12-medium">
-									<p>Morbi enim nascetur et placerat lorem sed iaculis neque ante
-									adipiscing adipiscing metus massa. Blandit orci porttitor semper.
-									Arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer
-									mi sed nascetur cep aliquet augue varius tempus. Feugiat lorem
-									ipsum dolor nullam.</p>
+									<p>We are a support for new IT graduades of Costa Rica to find job, so, we can show the performance of the 'Tico' talent.
+									Also, we don't only look for new graduades, we try to give opportunities to people that reach no problems the requirements of the business. </p>
 								</div>
 							</div>
 						</div>
@@ -94,10 +81,11 @@
 					<span class="image fit main"><img src="images/pic03.jpg" alt="" /></span>
 					<div class="content">
 						<header>
-							<h2>Interdum amet non magna accumsan</h2>
-							<p>Nunc commodo accumsan eget id nisi eu col volutpat magna</p>
+							<h2>Where we give the services?</h2>
+							<p>The main goal is to help the bussinesses of Costa Rica.</p>
 						</header>
-						<p>Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer mi sed nascetur cep aliquet augue varius tempus lobortis porttitor lorem et accumsan consequat adipiscing lorem.</p>
+						<p>We are on Guanacaste, the choice of this zone was that we have our origins there,
+							but no means that our services only are there. </p>
 						<ul class="actions">
 							<li><a href="#" class="button">Learn More</a></li>
 						</ul>
@@ -110,10 +98,10 @@
 					<span class="image fit main bottom"><img src="images/pic04.jpg" alt="" /></span>
 					<div class="content">
 						<header>
-							<h2>Interdum felis blandit praesent sed augue</h2>
-							<p>Accumsan integer ultricies aliquam vel massa sapien phasellus</p>
+							<h2>And the oportunity of WFH?</h2>
+							<p>Of course, we try to give two modes of work, the normal mode in the office of our local on Ca&ntilde;as or the second chance that is <b>W</b>ork <b>F</b>rom <b>H</b>ome</p>
 						</header>
-						<p>Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer mi sed nascetur cep aliquet augue varius tempus lobortis porttitor lorem et accumsan consequat adipiscing lorem.</p>
+						<!--<p>Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer mi sed nascetur cep aliquet augue varius tempus lobortis porttitor lorem et accumsan consequat adipiscing lorem.</p>-->
 						<ul class="actions">
 							<li><a href="#" class="button">Learn More</a></li>
 						</ul>
