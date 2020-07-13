@@ -26,5 +26,5 @@
       </div>
     </div>
   </div>
-  <a href="#four" class="goto-next scrolly">Next</a>
+  <a href="#two" class="goto-next scrolly">Next</a>
 </section>
