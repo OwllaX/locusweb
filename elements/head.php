@@ -1,5 +1,13 @@
 <head>
-  <title>Locusweb by @OwllaX</title>
+  <title><?php try {
+    if ($TitlePage != null) {
+      echo $TitlePage;
+    } else {
+      echo "Locusweb by @OwllaX";
+    }
+  } catch (\Exception $e) {
+    echo "Locusweb by @OwllaX";
+  } ?></title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
   <link rel="stylesheet" href="../assets/css/main.css" />
