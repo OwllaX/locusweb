@@ -2,12 +2,12 @@
   <span class="image fit main bottom"><img src="images/pic04.jpg" alt="" /></span>
   <div class="content">
     <header>
-      <h2>Interdum felis blandit praesent sed augue</h2>
-      <p>Accumsan integer ultricies aliquam vel massa sapien phasellus</p>
+      <h2><?php echo $headerSection3; ?></h2>
+      <p><?php echo $headerPSection3; ?></p>
     </header>
-    <p>Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer mi sed nascetur cep aliquet augue varius tempus lobortis porttitor lorem et accumsan consequat adipiscing lorem.</p>
+    <p><?php echo $p1Section3; ?></p>
     <ul class="actions">
-      <li><a href="#" class="button">Learn More</a></li>
+      <li><a href="#" class="button"><?php echo $txtButtonS3; ?></a></li>
     </ul>
   </div>
   <a href="#four" class="goto-next scrolly">Next</a>
